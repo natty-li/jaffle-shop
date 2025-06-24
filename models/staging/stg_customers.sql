@@ -1,3 +1,6 @@
+-- I'm adding these lines to create CONFLICT
+-- a merge conflict in the dbt Cloud IDE
+
 with
 
 source as (
