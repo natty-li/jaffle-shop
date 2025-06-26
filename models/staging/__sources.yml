@@ -2,7 +2,7 @@ version: 2
 
 sources:
   - name: jaffle_shop
-    schema: raw
+    database: raw
     description: E-commerce data for the Jaffle Shop
     schema: jaffle_shop
     tables:
