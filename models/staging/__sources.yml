@@ -1,9 +1,10 @@
 version: 2
 
 sources:
-  - name: ecom
+  - name: jaffle_shop
     schema: raw
     description: E-commerce data for the Jaffle Shop
+    schema: jaffle_shop
     tables:
       - name: raw_customers
         description: One record per person who has purchased one or more items. Natasha was here
