@@ -19,7 +19,7 @@ renamed as (
         name as supply_name,
 
         ---------- numerics
-        {{ cents_to_dollars('cost') }} as supply_cost,
+        {{ cents_to_dollars('cost') }} as cost,
 
         ---------- booleans
         perishable as is_perishable_supply
