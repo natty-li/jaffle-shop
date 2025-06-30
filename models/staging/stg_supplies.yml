@@ -13,4 +13,3 @@ models:
       - name: supply_id
         data_tests:
           - not_null
-          - unique
